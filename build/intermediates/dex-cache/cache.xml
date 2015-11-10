@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Peter\AndroidStudioProjects\Projekt\TowerDefence\towerd\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Peter\AndroidStudioProjects\Projekt\TowerDefence\towerd\build\intermediates\pre-dexed\debug\classes-0db991f7a5bf2ebb6f9f4555cba318d15124c8f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Peter\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="C:\Users\Peter\AndroidStudioProjects\Projekt\TowerDefence\towerd\build\intermediates\pre-dexed\debug\tubesock-0.0.12-239ca96ea9149bab8a00869494a55096a27b5231.jar" />
+    </item>
+    <item
+        jar="C:\Users\Peter\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Peter\AndroidStudioProjects\Projekt\TowerDefence\towerd\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-b1914a1a9e044cf02042950cb68b328f333b2e8b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Peter\AndroidStudioProjects\Projekt\TowerDefence\towerd\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Peter\AndroidStudioProjects\Projekt\TowerDefence\towerd\build\intermediates\pre-dexed\debug\classes-33287d56017215208e0a3314e2e6334289de8465.jar" />
+    </item>
+    <item
+        jar="C:\Users\Peter\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\Peter\AndroidStudioProjects\Projekt\TowerDefence\towerd\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2-de8099a06260549b9ac01f8f5401a28514b54374.jar" />
+    </item>
+    <item
+        jar="C:\Users\Peter\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.4.0\f00bc767918ad9c89e5c13e25706d033a58e13c2\firebase-client-android-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f00bc767918ad9c89e5c13e25706d033a58e13c2">
+        <dex dex="C:\Users\Peter\AndroidStudioProjects\Projekt\TowerDefence\towerd\build\intermediates\pre-dexed\debug\firebase-client-android-2.4.0-bf7e9a9adfcc50536992a5caea18f715d4b81efa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Peter\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\Peter\AndroidStudioProjects\Projekt\TowerDefence\towerd\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2-4de7658b63f13e223cd780b68234b031d4128d62.jar" />
+    </item>
+    <item
+        jar="C:\Users\Peter\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\Peter\AndroidStudioProjects\Projekt\TowerDefence\towerd\build\intermediates\pre-dexed\debug\jackson-core-2.2.2-6926eb2f0dc47b4903258a0605dee80a5f4bd750.jar" />
+    </item>
+    <item
+        jar="C:\Users\Peter\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.4.0\558e074f136fee609b8758480ecd00e286595137\firebase-client-jvm-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="558e074f136fee609b8758480ecd00e286595137">
+        <dex dex="C:\Users\Peter\AndroidStudioProjects\Projekt\TowerDefence\towerd\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.4.0-95c7eae3275d5e09dbdbbd3f91e29ad0caa7b257.jar" />
+    </item>
+    <item
+        jar="C:\Users\Peter\AndroidStudioProjects\Projekt\TowerDefence\towerd\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Peter\AndroidStudioProjects\Projekt\TowerDefence\towerd\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-8e9555b61c539dc43ba00f9bb1c32820d9af02fe.jar" />
+    </item>
+
+</items>

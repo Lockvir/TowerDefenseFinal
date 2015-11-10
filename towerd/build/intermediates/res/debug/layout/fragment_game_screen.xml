@@ -1,0 +1,77 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/gameplayscreen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="se.mah.ac9511.towerd.GameScreenFragment"
+    android:weightSum="1.0">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView android:layout_width="match_parent" android:layout_height="match_parent"
+        android:text="@string/hello_blank_fragment"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/surfaceView"
+        android:layout_alignEnd="@+id/surfaceView"
+        android:layout_alignParentBottom="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Money: "
+        android:textColor="@color/yellow"
+        android:id="@+id/textView3"
+        android:layout_alignBottom="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_alignTop="@+id/textView" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="State: "
+        android:textColor="@color/red"
+        android:id="@+id/textView"
+        android:layout_below="@+id/surfaceView"
+        android:layout_toRightOf="@+id/textView3"
+        android:layout_toEndOf="@+id/textView3"
+        android:layout_marginTop="23dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Player: "
+        android:textColor="@color/green"
+        android:id="@+id/textView2"
+        android:layout_alignTop="@+id/textView3"
+        android:layout_toLeftOf="@+id/textView3"
+        android:layout_toStartOf="@+id/textView3"
+        android:layout_marginRight="19dp"
+        android:layout_marginEnd="19dp" />
+
+    <SurfaceView
+        android:layout_width="300dp"
+        android:layout_height="400dp"
+        android:background="@color/white"
+        android:id="@+id/surfaceView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ImageView
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:background="@drawable/tower1"
+        android:id="@+id/imageView3"
+        android:layout_below="@+id/textView3"
+        android:layout_alignLeft="@+id/textView3"
+        android:layout_alignStart="@+id/textView3"
+        android:layout_toStartOf="@+id/textView"
+        android:layout_toLeftOf="@+id/textView" />
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/Peter/AndroidStudioProjects/Projekt/TowerDefence/towerd/src/main/res/layout/fragment_game_screen.xml -->

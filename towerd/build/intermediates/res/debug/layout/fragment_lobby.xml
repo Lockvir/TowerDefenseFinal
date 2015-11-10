@@ -1,0 +1,52 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/gameplayscreen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="se.mah.ac9511.towerd.LobbyFragment"
+    android:weightSum="1.0">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="20dp"
+        android:text="Welcome to in-game lobby!"
+        android:textColor="@color/green"
+        android:id="@+id/welcome"
+        android:paddingTop="70dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="Player Name"
+        android:ems="10"
+        android:id="@+id/name"
+        android:layout_centerVertical="true"
+        android:layout_alignRight="@+id/EnterLobbyButton"
+        android:layout_alignEnd="@+id/EnterLobbyButton"
+        android:background="#4cff16"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter Lobby"
+        android:paddingLeft="45dp"
+        android:textColor="@color/green"
+        android:textSize="15dp"
+        android:background="@drawable/buttontexture"
+        android:id="@+id/EnterLobbyButton"
+        android:layout_marginBottom="29dp"
+        android:layout_above="@+id/name"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold" />
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/Peter/AndroidStudioProjects/Projekt/TowerDefence/towerd/src/main/res/layout/fragment_lobby.xml -->
